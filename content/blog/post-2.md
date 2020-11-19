@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Test 2
 date: 2020-11-12T14:45:06.428Z
 description: This is a test blog post
 ---
